@@ -1,4 +1,4 @@
-# MixMatchForBreastCancer
+# MixMatch For Breast Cancer Diagnosis
 ## semi-supervised learning via mixmatch with DCGAN generated synthetic images ##
 
 
